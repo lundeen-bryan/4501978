@@ -11,16 +11,6 @@ The purpose of this project is course on Udemy of same title.
 
 ---
 
-## Link To Project on tbd
-
-See the [Project-Name](project-url) on tbd
-
----
-
-## Table of Contents
-
-The purpose of this project is course on Udemy of same title.
-
 ## Description
 
 This course is on Udemy taught by Bluelime Learning Solutions. Not highly rated but I was interested in seeing the approach. Mostly the instructor uses Oracle not SSMS, however, it may not matter as the point seems to be using Excel. (e.g. objectives or purpose of the project)
