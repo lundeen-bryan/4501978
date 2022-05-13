@@ -1,0 +1,197 @@
+Country_Id,Country,Capital_City,Second_City
+1,Afghanistan,Kabul,NULL
+2,Albania,Tirana,NULL
+3,Algeria,Algiers,NULL
+4,Andorra,Andorra la Vella,NULL
+5,Angola,Luanda,NULL
+6,Antigua and Barbuda,Saint John's,NULL
+7,Argentina,Buenos Aires,NULL
+8,Armenia,Yerevan,NULL
+9,Australia,Canberra,NULL
+10,Austria,Vienna,NULL
+11,Azerbaijan,Baku,NULL
+12,Bahamas,Nassau,NULL
+13,Bahrain,Manama,NULL
+14,Bangladesh,Dhaka,NULL
+15,Barbados,Bridgetown,NULL
+16,Belarus,Minsk,NULL
+17,Belgium,Brussels,NULL
+18,Belize,Belmopan,NULL
+19,Benin,Porto-Novo,NULL
+20,Bhutan,Thimphu,NULL
+21,Bolivia,"La Paz (administrative), Sucre (judicial)",NULL
+22,Bosnia and Herzegovina,Sarajevo,NULL
+23,Botswana,Gaborone,NULL
+24,Brazil,Brasilia,NULL
+25,Brunei,Bandar Seri Begawan,NULL
+26,Bulgaria,Sofia,NULL
+27,Burkina Faso,Ouagadougou,NULL
+28,Burundi,Bujumbura,NULL
+29,Cabo Verde,Praia,NULL
+30,Cambodia,Phnom Penh,NULL
+31,Cameroon,Yaounde,NULL
+32,Canada,Ottawa,NULL
+33,Central African Republic,Bangui,NULL
+34,Chad,N'Djamena,NULL
+35,Chile,Santiago,NULL
+36,China,Beijing,NULL
+37,Colombia,Bogotá,NULL
+38,Comoros,Moroni,NULL
+39,Democratic Republic of the Congo,Kinshasa,NULL
+40,Republic of the Congo,Brazzaville,NULL
+41,Costa Rica,San Jose,NULL
+42,Cote d'Ivoire,Yamoussoukro,NULL
+43,Croatia,Zagreb,NULL
+44,Cuba,Havana,NULL
+45,Cyprus,Nicosia,NULL
+46,Czech Republic,Prague,NULL
+47,Denmark,Copenhagen,NULL
+48,Djibouti,Djibouti (city),NULL
+49,Dominica,Roseau,NULL
+50,Dominican Republic,Santo Domingo,NULL
+51,Ecuador,Quito,NULL
+52,Egypt,Cairo,NULL
+53,El Salvador,San Salvador,NULL
+54,Equatorial Guinea,Malabo,NULL
+55,Eritrea,Asmara,NULL
+56,Estonia,Tallinn,NULL
+57,Ethiopia,Addis Ababa,NULL
+58,Fiji,Suva,NULL
+59,Finland,Helsinki,NULL
+60,France,Paris,NULL
+61,Gabon,Libreville,NULL
+62,Gambia,Banjul,NULL
+63,Georgia,Tbilisi,NULL
+64,Germany,Berlin,NULL
+65,Ghana,Accra,NULL
+66,Greece,Athens,NULL
+67,Grenada,Saint George's,NULL
+68,Guatemala,Guatemala City,NULL
+69,Guinea,Conakry,NULL
+70,Guinea-Bissau,Bissau,NULL
+71,Guyana,Georgetown,NULL
+72,Haiti,Port-au-Prince,NULL
+73,Honduras,Tegucigalpa,NULL
+74,Hungary,Budapest,NULL
+75,Iceland,Reykjavik,NULL
+76,India,New Delhi,NULL
+77,Indonesia,Jakarta,NULL
+78,Iran,Tehran,NULL
+79,Iraq,Baghdad,NULL
+80,Ireland,Dublin,NULL
+81,Israel,Jerusalem,NULL
+82,Italy,Rome,NULL
+83,Jamaica,Kingston,NULL
+84,Japan,Tokyo,NULL
+85,Jordan,Amman,NULL
+86,Kazakhstan,Astana,NULL
+87,Kenya,Nairobi,NULL
+88,Kiribati,South Tarawa,NULL
+89,Kosovo,Pristina,NULL
+90,Kuwait,Kuwait City,NULL
+91,Kyrgyzstan,Bishkek,NULL
+92,Laos,Vientiane,NULL
+93,Latvia,Riga,NULL
+94,Lebanon,Beirut,NULL
+95,Lesotho,Maseru,NULL
+96,Liberia,Monrovia,NULL
+97,Libya,Tripoli,NULL
+98,Liechtenstein,Vaduz,NULL
+99,Lithuania,Vilnius,NULL
+100,Luxembourg,Luxembourg,NULL
+101,Macedonia,Skopje,NULL
+102,Madagascar,Antananarivo,NULL
+103,Malawi,Lilongwe,NULL
+104,Malaysia,Kuala Lumpur,NULL
+105,Maldives,Male,NULL
+106,Mali,Bamako,NULL
+107,Malta,Valletta,NULL
+108,Marshall Islands,Majuro,NULL
+109,Mauritania,Nouakchott,NULL
+110,Mauritius,Port Louis,NULL
+111,Mexico,Mexico City,NULL
+112,Micronesia,Palikir,NULL
+113,Moldova,Chisinau,NULL
+114,Monaco,Monaco,NULL
+115,Mongolia,Ulaanbaatar,NULL
+116,Montenegro,Podgorica,NULL
+117,Morocco,Rabat,NULL
+118,Mozambique,Maputo,NULL
+119,Myanmar (Burma),Naypyidaw,NULL
+120,Namibia,Windhoek,NULL
+121,Nauru,Yaren District,NULL
+122,Nepal,Kathmandu,NULL
+123,Netherlands,Amsterdam,NULL
+124,New Zealand,Wellington,NULL
+125,Nicaragua,Managua,NULL
+126,Niger,Niamey,NULL
+127,Nigeria,Abuja,NULL
+128,North Korea,Pyongyang,NULL
+129,Norway,Oslo,NULL
+130,Oman,Muscat,NULL
+131,Pakistan,Islamabad,NULL
+132,Palau,Ngerulmud,NULL
+133,Palestine,Ramallah,NULL
+134,Panama,Panama City,NULL
+135,Papua New Guinea,Port Moresby,NULL
+136,Paraguay,Asunción,NULL
+137,Peru,Lima,NULL
+138,Philippines,Manila,NULL
+139,Poland,Warsaw,NULL
+140,Portugal,Lisbon,NULL
+141,Qatar,Doha,NULL
+142,Romania,Bucharest,NULL
+143,Russia,Moscow,NULL
+144,Rwanda,Kigali,NULL
+145,Saint Kitts and Nevis,Basseterre,NULL
+146,Saint Lucia,Castries,NULL
+147,Saint Vincent and the Grenadines,Kingstown,NULL
+148,Samoa,Apia,NULL
+149,San Marino,San Marino,NULL
+150,Sao Tome and Principe,São Tomé,NULL
+151,Saudi Arabia,Riyadh,NULL
+152,Senegal,Dakar,NULL
+153,Serbia,Belgrade,NULL
+154,Seychelles,Victoria,NULL
+155,Sierra Leone,Freetown,NULL
+156,Singapore,Singapore,NULL
+157,Slovakia,Bratislava,NULL
+158,Slovenia,Ljubljana,NULL
+159,Solomon Islands,Honiara,NULL
+160,Somalia,Mogadishu,NULL
+162,South Korea,Seoul,NULL
+163,South Sudan,Juba,NULL
+164,Spain,Madrid,NULL
+165,Sri Lanka,Sri Jayawardenepura Kotte,NULL
+166,Sudan,Khartoum,NULL
+167,Suriname,Paramaribo,NULL
+168,Swaziland,Mbabane,NULL
+169,Sweden,Stockholm,NULL
+170,Switzerland,Bern,NULL
+171,Syria,Damascus,NULL
+172,Taiwan,Taipei,NULL
+173,Tajikistan,Dushanbe,NULL
+174,Tanzania,Dodoma,NULL
+175,Thailand,Bangkok,NULL
+176,Timor-Leste,Dili,NULL
+177,Togo,Lomé,NULL
+178,Tonga,Nuku?alofa,NULL
+179,Trinidad and Tobago,Port of Spain,NULL
+180,Tunisia,Tunis,NULL
+181,Turkey,Ankara,NULL
+182,Turkmenistan,Ashgabat,NULL
+183,Tuvalu,Funafuti,NULL
+184,Uganda,Kampala,NULL
+185,Ukraine,Kyiv,NULL
+186,United Arab Emirates,Abu Dhabi,NULL
+187,United Kingdom,London,NULL
+188,United States of America,"Washington, D.C.",NULL
+189,Uruguay,Montevideo,NULL
+190,Uzbekistan,Tashkent,NULL
+191,Vanuatu,Port Vila,NULL
+192,Vatican City (Holy See),Vatican City,NULL
+193,Venezuela,Caracas,NULL
+194,Vietnam,Hanoi,NULL
+195,Yemen,Sana'a,NULL
+196,Zambia,Lusaka,NULL
+197,Zimbabwe,Harare,NULL
